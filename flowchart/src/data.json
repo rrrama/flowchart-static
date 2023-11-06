@@ -1,0 +1,48 @@
+{
+    "head": 0,
+    "prompts": [
+        {
+            "id": 0,
+            "text": "Do you like Eggs?",
+            "choices": [
+                {
+                    "text": "Yes",
+                    "promptId": 1
+                },
+                {
+                    "text": "No",
+                    "promptId": 2
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "text": "Eat some eggs.",
+            "choices": []
+        },
+        {
+            "id": 2,
+            "text": "Do you like Beans?",
+            "choices": [
+                {
+                    "text": "Yes",
+                    "promptId": 3
+                },
+                {
+                    "text": "No",
+                    "promptId": 4
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "text": "Eat some beans.",
+            "choices": []
+        },
+        {
+            "id": 4,
+            "text": "You will never be happy.",
+            "choices": []
+        }
+    ]
+}
